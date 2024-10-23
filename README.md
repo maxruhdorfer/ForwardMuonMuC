@@ -1,5 +1,5 @@
 # ForwardMuonMuC
-This repository provides the classifier used to discriminate invisible scalars through the Higgs portal in the ZZ-fusion production channel in Section IV of the paper "Why detect forward muons at a muon collider" by M. Ruhdorfer, E. Salvioni and A. Wulzer (arXiv:2411.XXXX)
+This repository provides the classifier used to discriminate invisible scalars produced through the Higgs portal in the ZZ-fusion channel at a muon collider. See Section IV of the paper "Why detect forward muons at a muon collider" by Maximilian Ruhdorfer, Ennio Salvioni and Andrea Wulzer (arXiv:2411.XXXXX [hep-ph]).
 
 # Files Provided
 IPython notebooks and class definitions\
@@ -8,7 +8,6 @@ IPython notebooks and class definitions\
 `Classifier/Classifier-der_10p.ipynb`\
 \
 Data for background\
-`Classifier/Data/BG`\
 `Classifier/Data/BG/mumua.csv`\
 `Classifier/Data/BG/mumuaa.csv`\
 `Classifier/Data/BG/mumuff.csv`\
