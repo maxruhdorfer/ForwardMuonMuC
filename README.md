@@ -23,4 +23,4 @@ Data for signal\
 # Citation
 In order to use or refer to this classifier, please cite\
 \
-M. Ruhdorfer, E. Salvioni and A. Wulzer, ``Why detect forward muons at a muon collider,'' [arXiv:2411.00096](https://arxiv.org/abs/2411.00096) [hep-ph].
+M. Ruhdorfer, E. Salvioni and A. Wulzer, "Why detect forward muons at a muon collider," [arXiv:2411.00096](https://arxiv.org/abs/2411.00096) [hep-ph].
